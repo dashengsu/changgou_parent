@@ -18,7 +18,7 @@ public class Brand implements Serializable {
     private String name;//品牌名称
     private String image;//品牌图片地址
     private String letter;//品牌的首字母
-    private Integer seq;//排序
+    private Integer seq;//排序1
 
     public Integer getId() {
         return id;
